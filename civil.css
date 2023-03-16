@@ -1,0 +1,43 @@
+#sai{
+    background-color: yellow;
+    opacity:1;
+    
+}
+.div3{
+    display: flex;
+    justify-content: space-between;
+    border: 5px solid #85E3FF;
+    background-color: bisque;
+    padding:10px
+
+}
+.div4{
+  display: flex;
+    justify-content: space-between;
+    border: 5px solid #85E3FF;
+    background-color: bisque;
+    padding:10px
+
+
+}
+
+.div1{
+    display: flex;
+    justify-content:flex-end;
+  }
+
+  .smallDiv{
+    border: 5px solid #85E3FF;
+    background-color: bisque;
+    width: 300px;
+    height: 300px;
+  }
+
+.div2 {
+    background-color: rgb(238, 138, 7);
+    font-weight: 1000;
+    font-style: italic;
+    font-size: 24;
+
+}
+
